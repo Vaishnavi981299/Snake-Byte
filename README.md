@@ -48,7 +48,7 @@ readability, and maintainability.
 1. Compile the program:
 gcc snake_byte.c -o snake_byte
 2. Run the game:
-./snake_byte
+./snakebyte
 
 ## Controls
 - W / A / S / D or Arrow Keys: Control snake movement
